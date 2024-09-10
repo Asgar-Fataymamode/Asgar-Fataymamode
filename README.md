@@ -1,7 +1,7 @@
 # 🤖 About Me:
 Launching system......<br>I am Asgar Fataymamode, recipient of the Cambridge Outstanding Learner's Award in Computer Science and currently a Junior at New York University. I am pursuing a Bachelor of Science Degree in Computer Science, with Minors in Mathematics, Engineering, and Economics. So far, I have had the opportunity of studying in numerous NYU campuses, including Abu Dhabi, New York, Paris and Berlin.<br><br>In terms of my professional experience, I have interned as a:<br>-Machine Learning Engineer at Wintics in Paris, France<br>-Software Developer at SD Worx in Mauritius<br>-Back End Developer at Mauritius Network Services (MNS) in Mauritius<br><br>With a keen interest in both software development and research, I am eager to explore the fields of Artificial Intelligence and Machine Learning as I continue to grow in my career.
-- [Personal Website](https://yourpersonalwebsite.com)
-- [Travel Blog](https://yourtravelblog.com)
+- [Personal Website](https://asgarfataymamode.com)
+- [Travel Blog](https://travelblog.asgarfataymamode.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AsgarFataymamode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/02.asgar.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AsgarFataymamode) 
